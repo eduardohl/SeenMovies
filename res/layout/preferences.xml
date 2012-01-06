@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<PreferenceCategory
+		android:title="@string/general_settings">
+		<CheckBoxPreference
+			android:title="@string/thumbnails_setting"
+			android:defaultValue="true"
+			android:summary="@string/thumbnails_setting_summary"
+			android:key="thumbnail_setting"
+		/>
+	</PreferenceCategory>
+</PreferenceScreen>

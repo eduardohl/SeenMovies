@@ -1,0 +1,45 @@
+<!--
+  Copyright 2011 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Seen Movies</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_share">Share</string>
+    <string name="about_disclaimer">This applications uses TMDB API but is not endorsed by TMDB. Please contact us for feedback and bug fixing.</string>
+    <string name="search_movies">Search movies</string>
+    <string name="my_movies">My movies</string>
+    <string name="general_settings">General settings</string>
+    <string name="about">About</string>
+    <string name="movie_already_registered">Movie already in my list</string>
+    <string name="i_ve_seen_this_movie">Add movie to my list</string>
+    <string name="remove_movie_from_my_list">Remove movie from my list</string>
+    <string name="thumbnails_setting">Enable thumbnails</string>
+    <string name="thumbnails_setting_summary">Disabling thumbnails consumes less data and is faster</string>
+    <string name="settings">Settings</string>
+    <string name="no_internet_connection_text">Seen Movies requires data connection. Would you like to enable Wi-Fi settings?</string>
+    <string name="no_internet_connection_title">No internet connection... </string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="movie_name">Name: </string>
+    <string name="movie_released_date">Released date: </string>
+    <string name="movie_rating">Rating: </string>
+    <string name="empty_my_movies">You haven\'t added any movies to your list!</string>
+    <string name="type_movie_name">Movie name</string>
+    <string name="movie_overview">Overview: </string>
+    <string name="searching_for_movies">Searching for movies</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="menu_refresh">ABCD</string>
+</resources>
